@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Mochamad Fadillah Wijaya"
+  avatar           : "191524021.jpg"
+  bio              : "Aku. Masih mencari sebagai apa aku dilahirkan. Dan pada posisi apa aku berperan di muka bumi ini."
+  location         : "Alam yang tidak penuh dengan mental judgement"
+  email            : "fadillah550@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
